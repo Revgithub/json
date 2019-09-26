@@ -1,0 +1,673 @@
+{
+    "chart": {
+      "caption": " No. of Projects",
+      "subcaption": "Click on a column to see top country wise",
+      "xaxisname": "Year",
+      "yAxisName": "Units",
+      "theme": "fusion"
+    },
+    "data": [
+      {
+        "label": "project1",
+        "value": "89747430",
+        "link": "newchart-xml-project1"
+      },
+      {
+        "label": "project2",
+        "value": "90780583",
+        "link": "newchart-xml-project2"
+      },
+      {
+        "label": "project3",
+        "value": "95057929",
+        "link": "newchart-xml-project3"
+      },
+      {
+        "label": "project4",
+        "value": "97302534",
+        "link": "newchart-xml-project4"
+      }
+    ],
+    "linkeddata": [
+      {
+        "id": "project1",
+        "linkedchart": {
+          "chart": {
+            "caption": "Set of projects under project1",
+            "subcaption": "Click to check top makers",
+            "xaxisname":  "Countries",
+            "yaxisname": "Units",
+            "theme": "fusion"
+          },
+          "data": [
+            {
+              "label": "Sf",
+              "value": "29015434",
+              "link": "newchart-xml-project1sf"
+            },
+            {
+              "label": "Fixed_price",
+              "value": "11189985",
+              "link": "newchart-xml-project1fixed"
+            },
+            {
+              "label": "coe",
+              "value": "9693746",
+              "link": "newchart-xml-project1coe"
+            },
+            {
+              "label": "Others",
+              "value": "47403369",
+              "link": "newchart-xml-project1others"
+            }
+          ],
+          "linkeddata": [
+            {
+              "id": "project1sf",
+              "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "China year 2014",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "Allocated Resource",
+                    "value": "30"
+                  },
+                  {
+                    "label": "Non-Billable",
+                    "value": "22"
+                  },
+                  {
+                    "label": "Newly joined",
+                    "value": "18"
+                  },
+                  {
+                    "label": "Not_Alllocated",
+                    "value": "30"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "project1fixed",
+              "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "US year 2014",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "Allocated Resource",
+                    "value": "30"
+                  },
+                  {
+                    "label": "Non-Billable",
+                    "value": "25"
+                  },
+                  {
+                    "label": "Newly joined",
+                    "value": "18"
+                  },
+                  {
+                    "label": "Not_Alllocated",
+                    "value": "27"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "project1coe",
+              "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "Japan year 2014",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "Allocated Resource",
+                    "value": "35"
+                  },
+                  {
+                    "label": "Non-Billable",
+                    "value": "20"
+                  },
+                  {
+                    "label": "Newly joined",
+                    "value": "15"
+                  },
+                  {
+                    "label": "Not_Alllocated",
+                    "value": "30"
+                  }
+                ]
+              }
+            },
+            {
+               "id": "project1others",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "Other Countries year 2014",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "Allocated Resource",
+                    "value": "17.2"
+                  },
+                  {
+                    "label": "Non-Billable",
+                    "value": "14.2"
+                  },
+                  {
+                    "label": "Newly joined",
+                    "value": "14"
+                  },
+                  {
+                    "label": "Not_Alllocated",
+                    "value": "54.6"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+         "id": "project2",
+         "linkedchart": {
+          "chart": {
+            "caption": "Country wise Automobile sales(2015)",
+            "subcaption": "Click to check top makers",
+            "xaxisname": "Countries",
+            "yaxisname": "Units",
+            "theme": "fusion"
+          },
+          "data": [
+            {
+              "label": "Sf",
+              "value": "24503326",
+              "link": "newchart-xml-project2Sf"
+            },
+            {
+              "label": "Amp",
+              "value": "12100095",
+              "link": "newchart-xml-project2Amp"
+            },
+            {
+              "label": "COE",
+              "value": "9278321",
+              "link": "newchart-xml-project2COE"
+            },
+            {
+              "label": "Others",
+              "value": "50403369",
+              "link": "newchart-xml-project2others"
+            }
+          ],
+          "linkeddata": [
+            {
+               "id": "project2Sf",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "China year 2015",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "Allocated Resource",
+                    "value": "30"
+                  },
+                  {
+                    "label": "Non-Billable",
+                    "value": "22"
+                  },
+                  {
+                    "label": "NEW joiners",
+                    "value": "18"
+                  },
+                  {
+                    "label": "Not Allocated",
+                    "value": "30"
+                  }
+                ]
+              }
+            },
+            {
+               "id": "project2Amp",
+               "linkedchart": {
+                "chart": {
+                 "caption": "Top Manufacturar Market Share",
+                  "subcaption": "US year 2015",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "Allocated Resource",
+                    "value": "30"
+                  },
+                  {
+                    "label": "Non-Billable",
+                    "value": "22"
+                  },
+                  {
+                    "label": "NEW joiners",
+                    "value": "18"
+                  },
+                  {
+                    "label": "Not Allocated",
+                    "value": "30"
+                  }
+                ]
+              }
+            },
+            {
+               "id": "project2COE",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "Japan year 2015",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "Allocated Resource",
+                    "value": "30"
+                  },
+                  {
+                    "label": "Non-Billable",
+                    "value": "22"
+                  },
+                  {
+                    "label": "NEW joiners",
+                    "value": "18"
+                  },
+                  {
+                    "label": "Not Allocated",
+                    "value": "30"
+                  }
+                ]
+              }
+            },
+            {
+               "id": "project2others",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "Other Countries year 2015",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "Allocated Resource",
+                    "value": "30"
+                  },
+                  {
+                    "label": "Non-Billable",
+                    "value": "22"
+                  },
+                  {
+                    "label": "NEW joiners",
+                    "value": "18"
+                  },
+                  {
+                    "label": "Not Allocated",
+                    "value": "30"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+         "id": "2016country",
+         "linkedchart": {
+          "chart": {
+            "caption": "Country wise Automobile sales(2016)",
+            "subcaption": "Click to check top makers",
+            "xaxisname": "Countries",
+            "yaxisname": "Units",
+            "theme": "fusion"
+          },
+          "data": [
+            {
+              "label": "China",
+              "value": "28118794",
+              "link": "newchart-xml-2016China"
+            },
+            {
+              "label": "United States",
+              "value": "12198137",
+              "link": "newchart-xml-2016US"
+            },
+            {
+              "label": "Japan",
+              "value": "9204590",
+              "link": "newchart-xml-2016Japan"
+            },
+            {
+              "label": "Others",
+              "value": "42403369",
+              "link": "newchart-xml-2016Others"
+            }
+          ],
+          "linkeddata": [
+            {
+               "id": "2016China",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "China year 2016",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                     "label": "FAW, SAIC",
+                    "value": "30"
+                  },
+                  {
+                     "label": "GAC, Dongfeng",
+                    "value": "22"
+                  },
+                  {
+                     "label": "Geely",
+                    "value": "18"
+                  },
+                  {
+                     "label": "Others",
+                    "value": "30"
+                  }
+                ]
+              }
+            },
+            {
+               "id": "2016US",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "US year 2016",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                     "label": "GM",
+                    "value": "30"
+                  },
+                  {
+                     "label": "Ford",
+                    "value": "25"
+                  },
+                  {
+                     "label": "Toyota",
+                    "value": "18"
+                  },
+                  {
+                     "label": "Others",
+                    "value": "27"
+                  }
+                ]
+              }
+            },
+            {
+               "id": "2016Japan",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "Japan year 2016",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                     "label": "Toyota",
+                    "value": "35"
+                  },
+                  {
+                     "label": "Nissan",
+                    "value": "20"
+                  },
+                  {
+                     "label": "Honda",
+                    "value": "15"
+                  },
+                  {
+                     "label": "Others",
+                    "value": "30"
+                  }
+                ]
+              }
+            },
+            {
+               "id": "2016Others",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "Other Countries year 2016",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                     "label": "GM",
+                    "value": "22"
+                  },
+                  {
+                     "label": "Ford",
+                    "value": "18.1"
+                  },
+                  {
+                     "label": "Toyota",
+                    "value": "16"
+                  },
+                  {
+                     "label": "Others",
+                    "value": "51.9"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+         "id": "2017country",
+         "linkedchart": {
+          "chart": {
+            "caption": "Country wise Automobile sales(2017)",
+            "subcaption": "Click to check top makers",
+            "xaxisname": "Countries",
+            "yaxisname": "Units",
+            "theme": "fusion"
+          },
+          "data": [
+            {
+               "label": "China",
+              "value": "21118794",
+              "link": "newchart-xml-2017China"
+            },
+            {
+               "label": "United States",
+              "value": "13198137",
+              "link": "newchart-xml-2017US"
+            },
+            {
+               "label": "Japan",
+              "value": "9704590",
+              "link": "newchart-xml-2017Japan"
+            },
+            {
+               "label": "Others",
+              "value": "52403369",
+              "link": "newchart-xml-2017Others"
+            }
+          ],
+          "linkeddata": [
+            {
+               "id": "2017China",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "China year 2017",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                     "label": "FAW, SAIC",
+                    "value": "37"
+                  },
+                  {
+                     "label": "GAC, Dongfeng",
+                    "value": "20"
+                  },
+                  {
+                     "label": "Geely",
+                    "value": "19"
+                  },
+                  {
+                     "label": "Others",
+                    "value": "28"
+                  }
+                ]
+              }
+            },
+            {
+               "id": "2017US",
+               "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "US year 2017",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                     "label": "GM",
+                    "value": "36"
+                  },
+                  {
+                     "label": "Ford",
+                    "value": "24"
+                  },
+                  {
+                     "label": "Toyota",
+                    "value": "19"
+                  },
+                  {
+                     "label": "Others",
+                    "value": "23"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "2017Japan",
+              "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "Japan year 2017",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "Toyota",
+                    "value": "37"
+                  },
+                  {
+                    "label": "Nissan",
+                    "value": "21"
+                  },
+                  {
+                    "label": "Honda",
+                    "value": "16"
+                  },
+                  {
+                    "label": "Others",
+                    "value": "28"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "2017Others",
+              "linkedchart": {
+                "chart": {
+                  "caption": "Top Manufacturar Market Share",
+                  "subcaption": "Other Countries year 2017",
+                  "xaxisname": "Manufacturer(s)",
+                  "yaxisname": "Market Share",
+                  "numberSuffix": "%",
+                  "theme": "fusion"
+                },
+                "data": [
+                  {
+                    "label": "GM",
+                    "value": "19.2"
+                  },
+                  {
+                    "label": "Ford",
+                    "value": "15.2"
+                  },
+                  {
+                    "label": "Toyota",
+                    "value": "16"
+                  },
+                  {
+                    "label": "Others",
+                    "value": "50.1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
